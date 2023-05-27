@@ -1,0 +1,7 @@
+/node_modules/
+/src/parser.*
+.tern-*
+/dist
+/quanta/node_modules/
+package-lock.json
+/quanta/package-lock.json
